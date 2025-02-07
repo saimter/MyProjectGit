@@ -8,7 +8,7 @@
 
 >컴포넌트 프로 퍼티
 
-![audiosource.png]https://postfiles.pstatic.net/MjAyNTAyMDdfMjA0/MDAxNzM4OTE3ODk1MzI1.mHGyYw2VfMmcPoTNrF-sVJfJqMyGm3gHyxKnD3JmoN8g.cHZVuB-NKMu1dAVljGyo_Eag0EcwhCqrAOKN5u0s4kcg.PNG/audiosource.png?type=w966
+![audiosource](https://github.com/saimter/MyProjectGit/blob/main/audiosource.png)
 
 >>Audio Resource : 재생을 진행할사운드 클립에 대한 등록
 
